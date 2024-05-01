@@ -7,4 +7,5 @@
 5- git checkout -- . -> Es un  control z al ultimo commit que hicimos
 6- git log -> Lo usamos para ver los commit hechos
 7- git commit --amend -> se usa para editar el nombre del ultimo commit --> seguindo de :wq!(write quit ! = inmediatamente)
-8- git checkout -b rama-heroes
+8- git checkout -b (rama-heroes)-> es el nombre de la rama que crearemos --> la usamos para crear otra branch / rama
+9- git branch
