@@ -12,3 +12,4 @@
 10. git checkout master -> lo usamos para ir a nuestra rama master
 11. git merge (rama-try"nombre rama") -> La usamos para combinar ramas con la master
 12. git branch -d rama-try"Rama nombre" -> La usamos para eliminar una rama
+13. git push -> lo usamos para subirlo
